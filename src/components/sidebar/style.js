@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    background-color: #0D0D0D;
+  background-color: #0D0D0D;
   position: fixed;
   height: 100%;
   top: 0px;
@@ -19,6 +19,11 @@ export const Container = styled.div`
     margin-top: 32px;
     margin-right: 32px;
     cursor: pointer;
+  }
+  @media (max-width: 500px){
+    svg{
+      left: 73%;
+    }
   }
   a{
     color: #FFFFFF;

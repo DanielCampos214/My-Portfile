@@ -6,10 +6,10 @@ function Section2() {
     <Container>
         <Title>Minhas qualificações e experiências</Title>
         <div className="div"> 
-        <div data-aos="fade-right">       
+        <div data-aos="fade-down">       
         <Button>Qualificações</Button>
         </div>
-        <div data-aos="fade-left">
+        <div data-aos="fade-down">
         <Button1>Trabalhos</Button1>
         </div>        
         </div>

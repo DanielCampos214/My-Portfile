@@ -65,10 +65,10 @@ function Section3() {
     return (
         <Container>
             <SectionHeader>
-                <div data-aos="fade-right">
+                <div data-aos="fade-down" >
                     <H1>Conheça quais são os meus serviços</H1>
                 </div>
-                <div data-aos="fade-left">
+                <div data-aos="fade-down">
                     <P>Metodologias que eu utilizo nos meus trabalhos.</P>
                 </div>
             </SectionHeader>

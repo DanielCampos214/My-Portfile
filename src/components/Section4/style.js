@@ -46,8 +46,8 @@ export const Text = styled.a`
     
 
 export const Movie = styled.img`
-    max-width: 200px;
-    max-height: 290px;
+    max-width: 300px;
+    max-height: 390px;
     cursor: pointer;
     border-radius: 20px;
     transform: scale(0.9);
@@ -59,8 +59,8 @@ export const Movie = styled.img`
 
     @media (max-width:715px)
     {
-        max-width: 100px;
-        max-height: 200px,
+        max-width: 200px;
+        max-height: 300px;
     };
 `
 
